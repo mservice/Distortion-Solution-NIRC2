@@ -7,7 +7,6 @@ figures/leg_spline_dif_hist/leg_spline_dif_hist.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 untitled.tex
 section_New_Distortion_Model_The__.tex
-figures/spline_resid_wrt_Data1/spline_resid_wrt_Data1.png
 figures/leg_spline_Comp_y_apr1/leg_spline_Comp_y_apr1.png
 figures/leg_spline_apr_dist_sol4/leg_spline_apr_dist_sol4.png
 figures/leg_spline_apr_dist_sol/leg_spline_dif_hist.png
