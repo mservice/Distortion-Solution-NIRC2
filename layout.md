@@ -1,3 +1,4 @@
+figures/leg_spline_apr_dist_sol2/leg_spline_apr_dist_sol2.png
 figures/leg_spline_apr_dist_sol1/leg_spline_apr_dist_sol1.png
 figures/leg_spline_dif_hist1/leg_spline_dif_hist1.png
 figures/leg_spline_dif_hist/leg_spline_dif_hist.png
