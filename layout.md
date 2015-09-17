@@ -1,3 +1,4 @@
+figures/leg_spline_dif_hist/leg_spline_dif_hist.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 untitled.tex
 section_New_Distortion_Model_The__.tex
