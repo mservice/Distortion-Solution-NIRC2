@@ -1,0 +1,11 @@
+\section{New Distortion Model}
+The goal of this work is to characterize the static component of the NIRC2 narrow field camera.  This updates the solution of \cite{Yelda_2010}, and uses the same approach.  The difference between positions in a nominally distortion free frame and the observed stellar positions in NIRC2 are used to fit a single surface.  This surface form our model of the time-averaged distortion  in the telescope and detector system.
+
+\subsection{Constructing the Model}
+DO I NEED TO TALK ABOUT DAR HERE? (skip for now)
+Each NIRC2 star list is matched with the ACS stellar positions, and the NIRC2 positions are used as a reference into which the ACS positions are transformed.  A four parameter transformation is used; this accounts for translation, rotation and global plate scale.  Only sources that are matched between the two lists are used to create the distortion model.  This gives a total of 17196 matched position measurements in April and 12682 position measurements in May.  
+
+(NOTE TO SELF -> Test the solution using precion_stack rewrite that applies given distortion solution.  THis can actually prove (to some degree) how well the solution is doing)
+
+The deltas are spatially clipped of outliers prior to fitting.  The outliers are identified by taking 205x205 pixel bins  and determining the average and standard deviation.  All points with differences greater than $3\sigma$ in either X or Y are eliminated.  This eliminates 222 measurements in the April data and 386 stars in the May data.
+Bivatiate B-splines and Legendre polynomials are fit to the delta map (figure \ref{apr_dist}.  This verifies that the solution is not sensitive to the 
