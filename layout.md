@@ -1,5 +1,4 @@
 Histogram_of_the_differences_between__.tex
-figures/leg_spline_dif_hist1/leg_spline_dif_hist1.png
 figures/leg_spline_dif_hist/leg_spline_dif_hist.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
