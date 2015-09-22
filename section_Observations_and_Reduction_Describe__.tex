@@ -19,7 +19,7 @@ The deltas between the ACS and NIRC2 positions are spatially correlated, however
 Bivatiate B-splines and Legendre polynomials are fit to the delta map.  We choose the two fitting methods as a check that the final solution is not sensitive to the choice.  Figure \ref{dist_x} and \ref{dist_y} shows the two distortion models, once created using sixth order Legnedre polynomials and the other generated using a spline with smoothing factor of 10000.  The Legendre fits fits of the coefficients from equations \ref{eq:legx} and \ref{eq:legy} , where $L_{n}$ are the $n^{th}$ Legendre polynomials.  
 \begin{equation}
 x^{'} = a_{0} + a_{1}L_{1}(x)L_{0}(y) +  a_{2}L_{0}(x)L_{1}(y) + a_{3}L_{2}(x)L_{0}(y)+...
-\label{eg:legx}
+\label{eq:legx}
 \end{equation}
 \begin{equation}
 y^{'} = b_{0} + b_{1}L_{1}(x)L_{0}(y) +  b_{2}L_{0}(x)L_{1}(y) + b_{3}L_{2}(x)L_{0}(y)+...
