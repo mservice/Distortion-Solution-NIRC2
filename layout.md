@@ -1,4 +1,3 @@
-figures/spline_resid_wrt_Data/spline_resid_wrt_Data.png
 figures/leg_spline_apr_dist_sol3/leg_spline_apr_dist_sol3.png
 Histogram_of_the_differences_between__.tex
 figures/leg_spline_apr_dist_sol2/leg_spline_apr_dist_sol2.png
