@@ -1,3 +1,4 @@
+figures/cent_precision/cent_precision.png
 Histogram_of_the_differences_between__.tex
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
