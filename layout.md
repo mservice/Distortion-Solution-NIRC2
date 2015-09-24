@@ -2,6 +2,7 @@ figures/cent_precision1/april_uncertainties.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
 figures/qpril_quiver_plot2/qpril_quiver_plot2.png
+figures/may_quiver1/may_quiver1.png
 figures/spline_resid_wrt_Data2/cent_precision.png
 figures/leg_spline_Comp_y_apr1/leg_spline_Comp_y_apr.png
 figures/leg_spline_apr_dist_sol4/leg_spline_comp_x_apr.png
