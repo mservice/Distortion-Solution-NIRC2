@@ -3,6 +3,6 @@ figures/cent_precision1/cent_precision1.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
 figures/spline_resid_wrt_Data2/cent_precision.png
-figures/leg_spline_Comp_y_apr1/leg_spline_Comp_y_apr1.png
+figures/leg_spline_Comp_y_apr1/leg_spline_Comp_y_apr.png
 figures/leg_spline_apr_dist_sol4/leg_spline_comp_x_apr.png
 figures/leg_spline_apr_dist_sol/leg_spline_dif_hist.png
