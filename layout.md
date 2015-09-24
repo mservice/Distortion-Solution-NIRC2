@@ -1,3 +1,4 @@
+figures/qpril_quiver_plot/qpril_quiver_plot.png
 figures/cent_precision/cent_precision.png
 figures/cent_precision1/april_uncertainties.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
