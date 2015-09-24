@@ -1,5 +1,5 @@
 figures/cent_precision/cent_precision.png
-figures/cent_precision1/cent_precision1.png
+figures/cent_precision1/april_uncertainties.png
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
 figures/spline_resid_wrt_Data2/cent_precision.png
