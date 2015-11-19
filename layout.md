@@ -5,3 +5,4 @@ figures/qpril_quiver_plot2/qpril_quiver_plot2.png
 figures/may_quiver1/may_quiver1.png
 figures/May_dist_quiver/May_dist_quiver.png
 figures/April_dist_quiver/April_dist_quiver.png
+figures/difference_fit_apr_may/difference_fit_apr_may.png
