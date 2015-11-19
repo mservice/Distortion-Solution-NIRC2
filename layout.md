@@ -1,5 +1,6 @@
 figures/leg_spline_Comp_y_apr/leg_spline_Comp_y_apr.png
 section_Observations_and_Reduction_Describe__.tex
+figures/apr_precision_hist/apr_precision_hist.png
 figures/qpril_quiver_plot2/qpril_quiver_plot2.png
 figures/may_quiver1/may_quiver1.png
 figures/May_dist_quiver/May_dist_quiver.png
