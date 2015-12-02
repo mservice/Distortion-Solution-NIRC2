@@ -1,5 +1,5 @@
 section_Observations_and_Reduction_Describe__1.tex
-section_Observations_and_Reduction_Describe__.tex
+New Model.tex
 figures/apr_precision_hist/apr_precision_hist.png
 figures/qpril_quiver_plot2/qpril_quiver_plot2.png
 figures/may_quiver1/may_quiver1.png
